@@ -1,4 +1,4 @@
-### Install Require [nodeJS,ionic,cordova,nodemon]
+# Install Require [[nodeJS](https://nodejs.org/en/download/),[ionic](https://ionicframework.com/docs/intro/cli),[cordova](https://cordova.apache.org/docs/en/latest/guide/cli/),[nodemon](https://www.npmjs.com/package/nodemon)]
 
 ## To add dependance
 
@@ -18,5 +18,6 @@ open :
 
 ## To run ionic
 
-NOTE: open new terminal window and run below command
+**NOTE: open new terminal window and run below command**
+
 `ionic serve`
